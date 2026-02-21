@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Athena</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+  <h1>Artemis 🏹</h1>
+
+  <div class="card">
+    <h2>Domain</h2>
+    <p>The hunt, wilderness, wild animals, virginity</p>
+  </div>
+
+  <div class="card">
+    <h2>Symbols</h2>
+    <p>Bow and arrow, quiver, hunting knives, deer and the cypress</p>
+  </div>
+
+  <div class="card">
+    <h2>Fun Fact</h2>
+    <p>She has a scared deer called Elaphos Kerynitis</p>
+  </div>
+
+  <a href="index.html">⬅ Back to Greek</a>
+  <br>
+  <a href="../index.html">⬅ Back to Home</a>
+
+</body>
+</html>
