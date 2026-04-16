@@ -63,6 +63,18 @@
       }
     });
   });
+  const pages = {
+  "thor": "greek/thor.html",
+  "odin": "greek/odin.html"
+};
+
+search.addEventListener("change", function () {
+  const value = search.value.toLowerCase();
+
+  if (pages[value]) {
+    window.location.href = pages[value];
+  }
+});
 </script>
 
 </body>
