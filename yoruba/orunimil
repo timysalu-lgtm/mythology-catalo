@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Orunmila</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+  <h1>Orunmilla 𓆙</h1>
+
+  <div class="card">
+    <h2>Domain</h2>
+    <p> God of trickery, chaos, shapeshifting </p>
+  </div>
+
+  <div class="card">
+    <h2>Symbols</h2>
+    <p> Serpent, fire </p>
+  </div>
+
+  <div class="card">
+    <h2>Fun Fact</h2>
+    <p> Gave birth to an eight-legged horse </p>
+  </div>
+
+  <a href="index.html">⬅ Back to Yoruba</a>
+  </br>
+  <a href ="aesir.html">⬅ Back to Aesir</a> 
+  <br>
+  <a href="../index.html">⬅ Back to Home</a>
+
+</body>
+</html>
